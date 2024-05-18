@@ -8,8 +8,7 @@ The website includes a biography, a photo gallery, her favorite song and a conta
 ## Link to website:
 https://wed-2023.github.io/208590174/
 
-## ID
-208590174
+## ID - 208590174
 
 ## Features
 - **About Her**: A detailed biography about my grandmother.
