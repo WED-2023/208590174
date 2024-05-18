@@ -16,7 +16,7 @@ body {
     display: flex; /* Use flexbox */
     justify-content: center; /* Center items horizontally */
     align-items: center; /* Center items vertically */
-    background-color: #bcf6f8; /* Light blue background */
+    background-color: #b0dcff; /* Light blue background */
     padding: 10px 0;
     text-align: center;
     height: 75px; /* Adjust the height as needed */
