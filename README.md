@@ -27,3 +27,5 @@ Menu Styling: Styles for the navigation bar, including background color, font se
 Section Styling: General styles for sections, including font settings and text alignment.
 Photo Gallery Styling: Styles for the photo gallery, including image sizing and spacing.
 Contact Form Styling: Styles for the contact form, including form row alignment and label spacing.
+
+
