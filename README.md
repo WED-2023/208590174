@@ -2,7 +2,7 @@
 # A website about my grandmother - Tamar Vaknin 
 
 ## Project Overview
-I chose to make this website about my grandmother, to commemorate her life and legacy.
+I choose to make this website about my grandmother, to commemorate her life and legacy.
 The website includes a biography, a photo gallery, her favorite song and a contact form.
 
 ## Features
