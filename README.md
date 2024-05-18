@@ -1,15 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/GmyrjvXu)
-# Tamar Vaknin Tribute Website
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Website](#website)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+# A website about my grandmother - Tamar Vaknin 
 
 ## Project Overview
 The Tamar Vaknin Tribute Website is a personal project dedicated to commemorating the life and legacy of Tamar Vaknin. The site features a biography, photo gallery, favorite playlists, interactive sections, and a contact form.
