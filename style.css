@@ -20,7 +20,7 @@
     padding: 0;
     display: flex; /* Use flexbox for the list */
     font-weight: bold; /* Make the font bold */
-    font-size: 20px; 
+    font-size: 21px; 
 }
 
 #menu ul li {
@@ -133,3 +133,8 @@
   .circle p {
     margin: 0;
   }
+
+  .qr-code {
+    width: 220px;  /* Set the desired width */
+    height: 220px; /* Set the desired height */
+}
