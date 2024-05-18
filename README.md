@@ -1,8 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/GmyrjvXu)
 # Tamar Vaknin Tribute Website
 
-![Project Logo](images/Screenshot_2024-05-16_163837-removebg-preview.png)
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
