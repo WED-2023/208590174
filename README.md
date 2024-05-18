@@ -17,3 +17,11 @@ https://wed-2023.github.io/208590174/
 - **Scan My Code**: A section to scan and explore a QR code.
 - **Q&A**: Information on web1, web2, and web3 differences.
 - **Contact Me**: Option to send an opinion on the site by email.
+
+## style.css
+The CSS file provides styling for the website, ensuring a visually appealing layout:
+
+Menu Styling: Styles for the navigation bar, including background color, font settings, and hover effects.
+Section Styling: General styles for sections, including font settings and text alignment.
+Photo Gallery Styling: Styles for the photo gallery, including image sizing and spacing.
+Contact Form Styling: Styles for the contact form, including form row alignment and label spacing.
