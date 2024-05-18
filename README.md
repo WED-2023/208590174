@@ -2,7 +2,8 @@
 # A website about my grandmother - Tamar Vaknin 
 
 ## Project Overview
-The Tamar Vaknin Tribute Website is a personal project dedicated to commemorating the life and legacy of Tamar Vaknin. The site features a biography, photo gallery, favorite playlists, interactive sections, and a contact form.
+I chose to make this website about my grandmother, to commemorate her life and legacy.
+The website includes a biography, a photo gallery, her favorite song and a contact form.
 
 ## Features
 - **About Her**: A detailed biography of Tamar Vaknin.
